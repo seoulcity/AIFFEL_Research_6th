@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : ___
+- 코더 : 김정현 (6기 리서치)
 - 리뷰어 : ___
 
 
