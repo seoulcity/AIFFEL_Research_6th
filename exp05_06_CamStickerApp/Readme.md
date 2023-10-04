@@ -39,7 +39,7 @@
        blended_area = cv2.addWeighted(sticker_area, 0.5, img_sticker, 0.5, 0)
        img_bgr[refined_y:refined_y +img_sticker.shape[0], refined_x:refined_x+img_sticker.shape[1]] = \
          np.where(white_mask[..., None], sticker_area, blended_area)
-    ```
+       ```
     - 이미지를 반투명하게 만드는 코드를 추가하고 원리를 설명했다.
         
 - [X] **4. 회고를 잘 작성했나요?**
