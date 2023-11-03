@@ -1,2 +1,6 @@
 .idea/
 .DS_Store
+aclImdb/test/
+aclImdb/train/
+exp09_10_PortraitGeneration/images/
+
